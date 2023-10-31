@@ -1,1 +1,3 @@
 # SWGoH
+
+## Project Notes
